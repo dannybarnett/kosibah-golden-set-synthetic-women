@@ -35,7 +35,7 @@ faces: the cases where generative models drift most.
 | `log/` | One JSON file per image: the full prompt, model, thinking level, size, interaction id, latency, usage and, for variants, the reference used |
 | `personas.json` | The 23 persona cards as data: age, ancestry, Monk skin tone, hair, height, size, shape, measurements, face, distinct features, plus what the accepted image actually shows where it differs |
 | `prompts.md` | The same cards as a table, every prompt, and the notes on what was learned while generating |
-| `contact-sheet.jpg`, `images/contact-sheet.pdf` | All 23 clean photos at a glance (JPEG), and all 64 images (PDF) |
+| `contact-sheet.jpg`, `contact-sheet.pdf` | All 23 clean photos at a glance (JPEG), and all 64 images (PDF) |
 | `scripts/generate_golden_set.py` | The generator: parses `prompts.md`, calls the Gemini API, saves images and logs. Use it to regenerate, extend the set or try another model |
 
 ### Personas
