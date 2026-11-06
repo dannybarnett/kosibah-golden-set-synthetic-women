@@ -1,5 +1,9 @@
 # Kosibah golden set: synthetic women for testing body-faithful image generation
 
+We're working on new functionality for kosibah.com and needed a good set of stock photos to try out. Kosibah is well known for dealing with women of all shapes and sizes and all sorts of backgrounds. Finding stock images on the web that met all the backgrounds that would exercise the functions we're developing was proving tricky. So we decided to generate a set ourselves.
+
+In the process we discovered a way of setting out the attributes that mattered in generating a diverse set of input images.
+
 64 AI generated, full body photographs of 23 invented women, built as a test set for
 virtual try-on and any other system that must keep a person's face, skin tone, hair,
 body shape and proportions exactly as they are. Every image comes with a persona card
@@ -16,7 +20,7 @@ upload (mirror selfies, backlit windows, cluttered bedrooms), and you need them
 without asking real people to lend their bodies to a benchmark. Stock libraries are
 thin on exactly the women this set covers.
 
-The set was made for the try-on project of [Kosibah Couture](https://kosibah.com),
+The set was made for a project of [Kosibah Couture](https://kosibah.com),
 a bespoke bridal house whose clients are mostly Black and brown women, which is why
 the mix is weighted towards deeper skin tones, textured hair, larger bodies and older
 faces: the cases where generative models drift most.
