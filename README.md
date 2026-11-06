@@ -5,8 +5,8 @@ We're working on new functionality for kosibah.com and needed a good set of stoc
 In the process we discovered a way of setting out the attributes that mattered in generating a diverse set of input images.
 
 64 AI generated, full body photographs of 23 invented women, built as a test set for
-virtual try-on and any other system that must keep a person's face, skin tone, hair,
-body shape and proportions exactly as they are. Every image comes with a persona card
+any image system that must keep a person's face, skin tone, hair, body shape and
+proportions exactly as they are. Every image comes with a persona card
 (the ground truth), the exact prompt that produced it, and the model settings.
 
 The women do not exist. Any resemblance to a real person is coincidental.
