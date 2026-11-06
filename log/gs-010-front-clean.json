@@ -1,0 +1,41 @@
+{
+  "file": "gs-010-front-clean.jpg",
+  "persona": "gs-010",
+  "label": "Maya",
+  "kind": "clean",
+  "reference": null,
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "A candid, unedited full body phone photograph of a woman: US dress size 12, 165 cm (5 ft 5 in) tall. Bust 100 cm, waist 76 cm, hips 106 cm. What her body must look like: her bust and hips are full and about equally wide, with a clearly narrower waist. She reads unmistakably as a US size 12 to anyone looking at the photo.\n\nImage layout: a wide full length shot, framed with headroom above the top of the door frame and a clear band of empty floor beneath her feet. The door fills about 85 percent of the image height and her body about 69 percent, so there is space above the door frame and roughly a foot's length of bare floor below her toes.\n\nShe is an invented 30 year old mixed Nigerian and Irish woman who does not resemble any real person. Medium brown skin, Monk Skin Tone 6, consistent across her face, neck, arms and hands. Her face: an oval face with hazel eyes, a narrow nose, a thin upper lip and a dimpled chin; she must look like this one specific individual, not a generic face. Hair: type 3C dark brown curls, shoulder length. Distinct features that must be clearly visible: a coin sized darker brown birthmark on her right cheekbone. Natural unretouched skin with visible pores and small blemishes; little or no makeup; an ordinary person, not a model.\n\nShe wears a tan fitted bodysuit and tan leggings and is barefoot. She stands facing the camera, arms relaxed and slightly away from her body, with a neutral expression.\n\nSetting: she stands in front of a plain painted wall, in the right half of the image. A white interior door, 203 cm (80 in) tall, is in the left third of the image, with plain wall between her and the door, and she does not overlap it. Her feet and the base of the door are on the same line. Standing beside the door, the top of her head is about a hand's length below the top of the door, about 81 percent of the way up it. Soft daylight from the front. No other objects or people.\n\nPhone photo, 26 mm equivalent, portrait 3:4. The camera is pulled back far enough, about 4 metres, that her entire feet, all her toes and the floor beneath them sit completely inside the lower edge of the frame, and the top of the door frame with wall above it sits completely inside the upper edge. Her body and skin appear exactly as described, unflattered and unretouched. No text or logo.",
+  "requested_at": "2026-11-06T16:58:21+00:00",
+  "seconds": 30.8,
+  "interaction_id": "v1_ChdMZ2Z1YW9YeENlSDZ3YlVQbDYyVjBRZxIXTGdmdWFvWHhDZUg2d2JVUGw2MlYwUWc",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 677,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 561
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 561,
+    "total_output_tokens": 2276,
+    "total_thought_tokens": 2280,
+    "total_tokens": 5117,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "Here is a candid, unedited full-body photograph of the woman as described.",
+  "saved_as": "gs-010-front-clean.jpg",
+  "bytes": 2425642
+}

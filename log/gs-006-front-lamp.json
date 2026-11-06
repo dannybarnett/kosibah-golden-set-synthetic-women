@@ -1,0 +1,45 @@
+{
+  "file": "gs-006-front-lamp.jpg",
+  "persona": "gs-006",
+  "label": "Tanisha: Warm lamp light at night",
+  "kind": "variant",
+  "reference": "gs-006-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 20: her very heavy bust is the most prominent part of her body, with a large soft belly, heavy upper arms, a thick waist and a soft chin, exactly as in the reference. Very deep brown skin, Monk Skin Tone 9. Keep these features: a wide nose bridge. Keep her skin as dark as in the reference; any change should come only from the new light.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: Night time, inside a bedroom lit only by one warm table lamp at about 2700 K, giving an orange colour cast and soft shadows. Framing: a wide full length shot, with space above her head and all her toes and empty floor visible inside the lower edge of the frame. Slight phone noise in the shadows.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo. The camera is pulled back far enough that all her toes and the ground beneath them sit inside the lower edge of the frame.",
+  "requested_at": "2026-11-06T17:32:34+00:00",
+  "seconds": 27.6,
+  "interaction_id": "v1_ChdNd191YXNhZU1NdWNvX1VQb2Izb2dBSRIXTXdfdWFzYWVNTXVjb19VUG9iM29nQUk",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1501,
+    "input_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1120
+      },
+      {
+        "modality": "text",
+        "tokens": 254
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1374,
+    "total_output_tokens": 2094,
+    "total_thought_tokens": 1491,
+    "total_tokens": 4959,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "",
+  "saved_as": "gs-006-front-lamp.jpg",
+  "bytes": 2357445
+}

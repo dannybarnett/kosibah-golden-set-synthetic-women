@@ -1,0 +1,45 @@
+{
+  "file": "gs-003-front-backlit.jpg",
+  "persona": "gs-003",
+  "label": "Akosua: Backlit by a window",
+  "kind": "variant",
+  "reference": "gs-003-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 24: her large soft belly is the fullest part of her body, with a full bust, wide hips, heavy upper arms, a full face and legs slimmer than her middle, exactly as in the reference. The deepest brown, nearly espresso skin, Monk Skin Tone 10. Keep these features: a visible raised mole on her left cheek. Keep her skin as dark as in the reference; any change should come only from the new light.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: She stands with her back to a bright window, so the window is overexposed and she is underexposed, as a typical phone would capture it. Framing: a wide full length shot, with space above her head and all her toes and empty floor visible inside the lower edge of the frame. Plain wall either side of the window. Do not lighten her skin beyond what the exposure causes.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo. The camera is pulled back far enough that all her toes and the ground beneath them sit inside the lower edge of the frame.",
+  "requested_at": "2026-11-06T17:29:58+00:00",
+  "seconds": 26.7,
+  "interaction_id": "v1_Chdsdzd1YXR6OUZOaV91TVlQMGYyb2lRSRIXbHc3dWF0ejlGTmlfdU1ZUDBmMm9pUUk",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1524,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 277
+      },
+      {
+        "modality": "image",
+        "tokens": 1120
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1397,
+    "total_output_tokens": 2043,
+    "total_thought_tokens": 1289,
+    "total_tokens": 4729,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "",
+  "saved_as": "gs-003-front-backlit.jpg",
+  "bytes": 2159640
+}

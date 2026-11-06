@@ -1,0 +1,45 @@
+{
+  "file": "gs-017-front-outdoor.jpg",
+  "persona": "gs-017",
+  "label": "Itzel: Dappled shade",
+  "kind": "variant",
+  "reference": "gs-017-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 16: the distance between her bust and hips is short, with a high looking hip line and a full bust and hips, with full upper arms and full thighs, exactly as in the reference. Medium brown skin, Monk Skin Tone 6. Keep these features: a long prominent pale surgical scar down her right forearm.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: Outdoors in a garden, standing in dappled shade under a tree, with patches of sunlight falling across her face and body. Framing: a wide full length shot, with space above her head and all her toes and ground visible inside the lower edge of the frame. Ordinary phone exposure.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo. The camera is pulled back far enough that all her toes and the ground beneath them sit inside the lower edge of the frame.",
+  "requested_at": "2026-11-06T17:44:18+00:00",
+  "seconds": 32.5,
+  "interaction_id": "v1_Chc4eEh1YXRhcUhlV0t5dE1QMXFHS3dRSRIXOHhIdWF0YXFIZVdLeXRNUDFxR0t3UUk",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1476,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 229
+      },
+      {
+        "modality": "image",
+        "tokens": 1120
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1349,
+    "total_output_tokens": 2440,
+    "total_thought_tokens": 886,
+    "total_tokens": 4675,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "",
+  "saved_as": "gs-017-front-outdoor.jpg",
+  "bytes": 3240757
+}

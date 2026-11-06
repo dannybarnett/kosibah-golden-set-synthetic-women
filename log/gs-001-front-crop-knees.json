@@ -1,0 +1,45 @@
+{
+  "file": "gs-001-front-crop-knees.jpg",
+  "persona": "gs-001",
+  "label": "Folake: Cropped at the knees",
+  "kind": "variant",
+  "reference": "gs-001-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 14: her hips and thighs are clearly the widest part of her body, noticeably wider than her shoulders and bust, with a soft lower belly and full upper thighs, with full upper arms, exactly as in the reference. Deep brown skin, Monk Skin Tone 8. Keep these features: many irregular freckles of varied size and spacing across her nose and both cheeks, random and natural rather than evenly spaced dots; a small gold stud on the side of her left nostril. Keep her skin as dark as in the reference; any change should come only from the new light.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: Same plain wall and door frame as the reference, but framed carelessly so the bottom edge of the photo cuts her off at the knees; her lower legs and feet are out of frame. The top of her head and the top of the door are still visible.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo.",
+  "requested_at": "2026-11-06T17:35:58+00:00",
+  "seconds": 33.0,
+  "interaction_id": "v1_ChdfZ191YXF5cE5LYmYwX2dQei15U2dBOBIXX2dfdWFxeXBOS2JmMF9nUHoteVNnQTg",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1498,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 251
+      },
+      {
+        "modality": "image",
+        "tokens": 1120
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1371,
+    "total_output_tokens": 2611,
+    "total_thought_tokens": 1249,
+    "total_tokens": 5231,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "",
+  "saved_as": "gs-001-front-crop-knees.jpg",
+  "bytes": 2449177
+}

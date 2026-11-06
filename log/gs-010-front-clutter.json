@@ -1,0 +1,45 @@
+{
+  "file": "gs-010-front-clutter.jpg",
+  "persona": "gs-010",
+  "label": "Maya: Cluttered bedroom",
+  "kind": "variant",
+  "reference": "gs-010-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 10: her bust and hips are full and about equally wide, with a clearly narrower waist, exactly as in the reference. Medium brown skin, Monk Skin Tone 6. Keep these features: a coin sized darker brown birthmark on her right cheekbone.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: She stands in a cluttered lived in bedroom: an unmade bed, clothes on a chair, shelves with objects, a laundry basket. Framing: a wide full length shot, with space above her head and all her toes and empty floor visible inside the lower edge of the frame. Everyday indoor daylight.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo. The camera is pulled back far enough that all her toes and the ground beneath them sit inside the lower edge of the frame.",
+  "requested_at": "2026-11-06T17:34:02+00:00",
+  "seconds": 28.4,
+  "interaction_id": "v1_Chdpd191YW8zTkx2N1gwX2dQdmRpdXdRRRIXaXdfdWFvM05MdjdYMF9nUHZkaXV3UUU",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1467,
+    "input_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1120
+      },
+      {
+        "modality": "text",
+        "tokens": 220
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1340,
+    "total_output_tokens": 2161,
+    "total_thought_tokens": 1523,
+    "total_tokens": 5024,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "The photo of the woman in a candid phone-like shot, capturing her in a cluttered, lived-in bedroom while maintaining her natural appearance and posture from image_0.png, has been created. All details\u2014such as her exact clothing, bare feet, and features (including her birthmark)\u2014have been kept consistent with the referenced image, set within the requested wide framing to include her entire body and the surrounding environment.",
+  "saved_as": "gs-010-front-clutter.jpg",
+  "bytes": 2927398
+}

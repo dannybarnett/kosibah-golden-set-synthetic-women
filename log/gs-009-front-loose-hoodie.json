@@ -1,0 +1,45 @@
+{
+  "file": "gs-009-front-loose-hoodie.jpg",
+  "persona": "gs-009",
+  "label": "Shanice: Loose clothing",
+  "kind": "variant",
+  "reference": "gs-009-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 12: her shoulders are clearly wider than her hips, with a broad upper back and chest and narrow hips, with full upper arms and solid thighs, exactly as in the reference. Warm rich brown skin, Monk Skin Tone 7. Keep these features: black ink floral tattoos covering her left upper arm and a line tattoo across her upper chest.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: New clothing: an oversized grey hoodie reaching mid thigh and baggy sweatpants, which hide her body outline. Same wall and door frame as the reference. Framing: a wide full length shot, with space above her head and all her toes and empty floor visible inside the lower edge of the frame. Do not change the body underneath: the clothes are simply loose. The whole door stays in the left third of the image, with wall above its frame, and she does not overlap it.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo. The camera is pulled back far enough that all her toes and the ground beneath them sit inside the lower edge of the frame.",
+  "requested_at": "2026-11-06T17:40:34+00:00",
+  "seconds": 24.5,
+  "interaction_id": "v1_ChdFeEh1YXRIM0RPam55dE1QaDY2d21RSRIXRXhIdWF0SDNET2pueXRNUGg2NndtUUk",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1521,
+    "input_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1120
+      },
+      {
+        "modality": "text",
+        "tokens": 274
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1394,
+    "total_output_tokens": 2152,
+    "total_thought_tokens": 771,
+    "total_tokens": 4317,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "",
+  "saved_as": "gs-009-front-loose-hoodie.jpg",
+  "bytes": 2477108
+}

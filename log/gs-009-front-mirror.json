@@ -1,0 +1,45 @@
+{
+  "file": "gs-009-front-mirror.jpg",
+  "persona": "gs-009",
+  "label": "Shanice: Mirror selfie",
+  "kind": "variant",
+  "reference": "gs-009-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 12: her shoulders are clearly wider than her hips, with a broad upper back and chest and narrow hips, with full upper arms and solid thighs, exactly as in the reference. Warm rich brown skin, Monk Skin Tone 7. Keep these features: black ink floral tattoos covering her left upper arm and a line tattoo across her upper chest.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: A mirror selfie in a full length bedroom mirror: she holds a phone in her right hand and the phone is visible in the reflection. The image is reversed left to right as a real mirror would show it. Framing: a wide full length shot, with space above her head and all her toes and empty floor visible inside the lower edge of the frame. Slightly uneven indoor light.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo. The camera is pulled back far enough that all her toes and the ground beneath them sit inside the lower edge of the frame.",
+  "requested_at": "2026-11-06T17:28:13+00:00",
+  "seconds": 35.5,
+  "interaction_id": "v1_ChdMZzd1YXR2TktZMjl4ZElQLU1UazRRTRIXTGc3dWF0dk5LWTI5eGRJUC1NVGs0UU0",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1500,
+    "input_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1120
+      },
+      {
+        "modality": "text",
+        "tokens": 253
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1373,
+    "total_output_tokens": 2626,
+    "total_thought_tokens": 935,
+    "total_tokens": 4934,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "Here is a candid mirror selfie of the same woman in a bedroom setting, matching all of your specified details:",
+  "saved_as": "gs-009-front-mirror.jpg",
+  "bytes": 2706737
+}

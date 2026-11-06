@@ -1,0 +1,45 @@
+{
+  "file": "gs-002-front-outdoor.jpg",
+  "persona": "gs-002",
+  "label": "Chiamaka: Dappled shade",
+  "kind": "variant",
+  "reference": "gs-002-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 8: her bust and hips are full and about equally wide, with a clearly narrower waist, exactly as in the reference. Very deep brown skin, Monk Skin Tone 9. Keep these features: a clear gap between her two upper front teeth, visible in a slight open smile. Keep her skin as dark as in the reference; any change should come only from the new light.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: Outdoors in a garden, standing in dappled shade under a tree, with patches of sunlight falling across her face and body. Framing: a wide full length shot, with space above her head and all her toes and ground visible inside the lower edge of the frame. Ordinary phone exposure.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo. The camera is pulled back far enough that all her toes and the ground beneath them sit inside the lower edge of the frame.",
+  "requested_at": "2026-11-06T17:43:51+00:00",
+  "seconds": 24.4,
+  "interaction_id": "v1_ChYxeEh1YXNpOEwtTEJ4ZElQbF9tZFNREhYxeEh1YXNpOEwtTEJ4ZElQbF9tZFNR",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1488,
+    "input_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1120
+      },
+      {
+        "modality": "text",
+        "tokens": 241
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1361,
+    "total_output_tokens": 2074,
+    "total_thought_tokens": 1177,
+    "total_tokens": 4612,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "I have generated the photograph of the woman in a garden based on the reference photo and your specific lighting and framing requirements.",
+  "saved_as": "gs-002-front-outdoor.jpg",
+  "bytes": 4199190
+}

@@ -1,0 +1,41 @@
+{
+  "file": "gs-021-front-clean.jpg",
+  "persona": "gs-021",
+  "label": "Ngozi: wheelchair user",
+  "kind": "clean",
+  "reference": null,
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "A candid, unedited full body phone photograph of a woman: US dress size 18, 165 cm (5 ft 5 in) tall. Bust 108 cm, waist 94 cm, hips 112 cm. What her body must look like: she has a full figure, with a soft belly and full thighs and arms, with full upper arms. She reads unmistakably as a US size 18 to anyone looking at the photo.\n\nImage layout: the door fills about 85 percent of the image height, with a little wall above its frame. She and the whole wheelchair are completely in frame, with a clear band of empty floor beneath her feet and the wheels.\n\nShe is an invented 41 year old Igbo Nigerian woman who does not resemble any real person. Deep brown skin, Monk Skin Tone 8, consistent across her face, neck, arms and hands. Her face: a wide oval face with a broad forehead, large eyes, a rounded nose and full lips; she must look like this one specific individual, not a generic face. Hair: short natural black hair. Her skin is deep, dark brown, with no lightening from the daylight. Her arms and legs are as dark as her face, and her skin stays this dark everywhere in the image. Natural unretouched skin with visible pores and small blemishes; little or no makeup; an ordinary person, not a model.\n\nShe wears a black fitted long sleeve top and grey leggings and flat shoes. Pose: seated upright in a manual wheelchair, facing the camera, hands resting on her thighs, the whole wheelchair visible, with a neutral expression.\n\nSetting: she sits in front of a plain painted wall, in the right half of the image. A white interior door, 203 cm (80 in) tall, is in the left third of the image, with plain wall between her and the door, and she does not overlap it. Her feet and the base of the door are on the same line. Soft daylight from the front. No other objects or people.\n\nPhone photo, 26 mm equivalent, portrait 3:4. The camera is pulled back far enough, about 4 metres, that her feet, the wheels and the floor beneath them sit completely inside the lower edge of the frame, and the top of the door frame with wall above it sits completely inside the upper edge. Her body and skin appear exactly as described, unflattered and unretouched. No text or logo.",
+  "requested_at": "2026-11-06T17:02:58+00:00",
+  "seconds": 40.7,
+  "interaction_id": "v1_ChdRZ2p1YXBHZ0Y5MjdpTE1Qc05uamtROBIXUWdqdWFwR2dGOTI3aUxNUHNObmprUTg",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 636,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 520
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 520,
+    "total_output_tokens": 2686,
+    "total_thought_tokens": 1874,
+    "total_tokens": 5080,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "Here is a candid, unedited handheld phone photograph that fits all of your specifications:",
+  "saved_as": "gs-021-front-clean.jpg",
+  "bytes": 2686587
+}

@@ -1,0 +1,6 @@
+# candidate images and their logs are working files; accept one with --accept
+images/*-c[0-9]*.jpg
+log/*-c[0-9]*.json
+.venv/
+__pycache__/
+.DS_Store

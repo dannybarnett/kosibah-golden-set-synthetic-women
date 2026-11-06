@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Attribution is not required (CC0), but if you cite this dataset please use the metadata below."
+title: "Kosibah golden set: synthetic women for testing body-faithful image generation"
+type: dataset
+version: 1.0.0
+date-released: 2026-11-06
+license: CC0-1.0
+repository-code: "https://github.com/dannybarnett/kosibah-golden-set-synthetic-women"
+authors:
+  - family-names: Barnett
+    given-names: Danny
+    email: danny@dannybarnett.com
+  - name: "Kosibah Couture"
+keywords:
+  - virtual try-on
+  - synthetic dataset
+  - benchmark
+  - skin tone
+  - body shape
+  - image generation
+abstract: >-
+  64 AI generated full body photographs of 23 invented women with known attributes
+  (Monk skin tone, ancestry, hair, age, height, US dress size, body shape, distinct
+  features, mobility aids), in clean reference conditions and in realistic bad
+  conditions (mirror selfies, backlight, lamp light, clutter, crops, loose clothing).
+  Built to measure whether image systems preserve a person's appearance. Includes
+  persona cards, prompts, per-image provenance logs and the generator script.

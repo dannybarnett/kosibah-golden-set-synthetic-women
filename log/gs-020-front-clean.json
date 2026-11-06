@@ -1,0 +1,41 @@
+{
+  "file": "gs-020-front-clean.jpg",
+  "persona": "gs-020",
+  "label": "Eleni",
+  "kind": "clean",
+  "reference": null,
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "A candid, unedited full body phone photograph of a large, plus size woman: US dress size 22, 164 cm (5 ft 5 in) tall, about 95 kg (209 lb). Bust 126 cm, waist 110 cm, hips 126 cm. Her hips are about 26 percent as wide as she is tall. What her body must look like: her very heavy bust is the most prominent part of her body, with a large soft belly, heavy upper arms and the softer body of a woman of her age. She reads unmistakably as a US size 22 to anyone looking at the photo.\n\nImage layout: a wide full length shot, framed with headroom above the top of the door frame and a clear band of empty floor beneath her feet. The door fills about 85 percent of the image height and her body about 69 percent, so there is space above the door frame and roughly a foot's length of bare floor below her toes.\n\nShe is an invented 58 year old Greek woman who does not resemble any real person. Light olive beige skin, Monk Skin Tone 4, consistent across her face, neck, arms and hands. Her face: a wide forehead, heavy lidded dark eyes, thick eyebrows and a prominent nose; she must look like this one specific individual, not a generic face. Hair: dark brown and grey type 3B curls, shoulder length. Distinct features that must be clearly visible: a slightly asymmetric face, with one eye set a little lower and a nose that leans slightly; visible age lines. Natural unretouched skin with visible pores and small blemishes; little or no makeup; an ordinary person, not a model.\n\nShe wears a charcoal fitted T shirt dress ending at the knee and is barefoot. She stands facing the camera, arms relaxed and slightly away from her body, with a neutral expression.\n\nSetting: she stands in front of a plain painted wall, in the right half of the image. A white interior door, 203 cm (80 in) tall, is in the left third of the image, with plain wall between her and the door, and she does not overlap it. Her feet and the base of the door are on the same line. Standing beside the door, the top of her head is about a hand's length below the top of the door, about 81 percent of the way up it. Soft daylight from the front. No other objects or people.\n\nPhone photo, 26 mm equivalent, portrait 3:4. The camera is pulled back far enough, about 4 metres, that her entire feet, all her toes and the floor beneath them sit completely inside the lower edge of the frame, and the top of the door frame with wall above it sits completely inside the upper edge. Her body and skin appear exactly as described, unflattered and unretouched. No text or logo.",
+  "requested_at": "2026-11-06T17:02:15+00:00",
+  "seconds": 39.1,
+  "interaction_id": "v1_ChdHQWp1YXZhZURfQ095dE1QNmZuYmtBRRIXR0FqdWF2YWVEX0NPeXRNUDZmbmJrQUU",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 733,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 617
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 617,
+    "total_output_tokens": 2869,
+    "total_thought_tokens": 1584,
+    "total_tokens": 5070,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "",
+  "saved_as": "gs-020-front-clean.jpg",
+  "bytes": 2588286
+}

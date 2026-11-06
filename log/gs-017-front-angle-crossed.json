@@ -1,0 +1,45 @@
+{
+  "file": "gs-017-front-angle-crossed.jpg",
+  "persona": "gs-017",
+  "label": "Itzel: Slight angle, arms crossed",
+  "kind": "variant",
+  "reference": "gs-017-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 16: the distance between her bust and hips is short, with a high looking hip line and a full bust and hips, with full upper arms and full thighs, exactly as in the reference. Medium brown skin, Monk Skin Tone 6. Keep these features: a long prominent pale surgical scar down her right forearm.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: Same plain wall and door frame as the reference, with her body turned 15 degrees to her left rather than square to the camera, head facing the camera. Arms crossed over her chest. Framing: a wide full length shot, with space above her head and all her toes and empty floor visible inside the lower edge of the frame. The whole door stays in the left third of the image, with wall above its frame, and she does not overlap it.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo. The camera is pulled back far enough that all her toes and the ground beneath them sit inside the lower edge of the frame.",
+  "requested_at": "2026-11-06T17:38:34+00:00",
+  "seconds": 34.3,
+  "interaction_id": "v1_ChdteER1YXZ5MElQVzB4ZElQMjcyRDhRWRIXbXhEdWF2eTBJUFcweGRJUDI3MkQ4UVk",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1512,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 265
+      },
+      {
+        "modality": "image",
+        "tokens": 1120
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1385,
+    "total_output_tokens": 2651,
+    "total_thought_tokens": 1228,
+    "total_tokens": 5264,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "The image of the woman has been created with the exact specifications requested, featuring her turned slightly to her left with her arms crossed, set within the same natural background.",
+  "saved_as": "gs-017-front-angle-crossed.jpg",
+  "bytes": 2192744
+}

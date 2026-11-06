@@ -1,0 +1,45 @@
+{
+  "file": "gs-015-front-clutter.jpg",
+  "persona": "gs-015",
+  "label": "Nadia: Cluttered bedroom",
+  "kind": "variant",
+  "reference": "gs-015-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 22: her torso is long and her legs are short, taking up less than half her height, with a large soft belly, very wide hips, full upper arms and a full face, exactly as in the reference. Golden tan skin, Monk Skin Tone 5. Keep these features: visible age lines appropriate to her age.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: She stands in a cluttered lived in bedroom: an unmade bed, clothes on a chair, shelves with objects, a laundry basket. Framing: a wide full length shot, with space above her head and all her toes and empty floor visible inside the lower edge of the frame. Everyday indoor daylight.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo. The camera is pulled back far enough that all her toes and the ground beneath them sit inside the lower edge of the frame.",
+  "requested_at": "2026-11-06T17:35:29+00:00",
+  "seconds": 25.5,
+  "interaction_id": "v1_Chc0Z191YXEySEhmT2o1Tm9QZ3Q2aGtBaxIXNGdfdWFxMkhIZk9qNU5vUGd0NmhrQWs",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1481,
+    "input_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1120
+      },
+      {
+        "modality": "text",
+        "tokens": 234
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1354,
+    "total_output_tokens": 2082,
+    "total_thought_tokens": 1435,
+    "total_tokens": 4871,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "",
+  "saved_as": "gs-015-front-clutter.jpg",
+  "bytes": 2795735
+}

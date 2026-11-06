@@ -1,0 +1,41 @@
+{
+  "file": "gs-005-front-clean.jpg",
+  "persona": "gs-005",
+  "label": "Hodan",
+  "kind": "clean",
+  "reference": null,
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "A candid, unedited full body phone photograph of a woman: US dress size 6, 182 cm (6 ft 0 in) tall. Bust 84 cm, waist 67 cm, hips 92 cm. What her body must look like: she is narrow and long limbed, with a high waist and legs that take up clearly more than half her height. She reads unmistakably as a US size 6 to anyone looking at the photo.\n\nImage layout: a wide full length shot, framed with headroom above the top of the door frame and a clear band of empty floor beneath her feet. The door fills about 85 percent of the image height and her body about 76 percent, so there is space above the door frame and roughly a foot's length of bare floor below her toes.\n\nShe is an invented 29 year old Somali woman who does not resemble any real person. Deep brown skin, Monk Skin Tone 8, consistent across her face, neck, arms and hands. Her face: a heart shaped face with a high forehead, a slim nose with a slight curve and a small mouth; she must look like this one specific individual, not a generic face. Hair: hair fully covered by a wrapped grey jersey hijab pinned under the chin. Her skin is deep, dark brown, with no lightening from the daylight. Her arms and legs are as dark as her face, and her skin stays this dark everywhere in the image. Natural unretouched skin with visible pores and small blemishes; little or no makeup; an ordinary person, not a model.\n\nShe wears a navy fitted long sleeve top and black leggings and is barefoot. She stands facing the camera, arms relaxed and slightly away from her body, with a neutral expression.\n\nSetting: she stands in front of a plain painted wall, in the right half of the image. A white interior door, 203 cm (80 in) tall, is in the left third of the image, with plain wall between her and the door, and she does not overlap it. Her feet and the base of the door are on the same line. Standing beside the door, the top of her head is just below the top of the door frame, about 90 percent of the way up it. Soft daylight from the front. No other objects or people.\n\nPhone photo, 26 mm equivalent, portrait 3:4. The camera is pulled back far enough, about 4 metres, that her entire feet, all her toes and the floor beneath them sit completely inside the lower edge of the frame, and the top of the door frame with wall above it sits completely inside the upper edge. Her body and skin appear exactly as described, unflattered and unretouched. No text or logo.",
+  "requested_at": "2026-11-06T16:56:10+00:00",
+  "seconds": 25.4,
+  "interaction_id": "v1_ChZxZ2J1YXByREk5eXR1TVlQbzVhYU9BEhZxZ2J1YXByREk5eXR1TVlQbzVhYU9B",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 694,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 578
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 578,
+    "total_output_tokens": 2194,
+    "total_thought_tokens": 1270,
+    "total_tokens": 4042,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "",
+  "saved_as": "gs-005-front-clean.jpg",
+  "bytes": 2503676
+}

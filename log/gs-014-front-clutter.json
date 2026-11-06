@@ -1,0 +1,45 @@
+{
+  "file": "gs-014-front-clutter.jpg",
+  "persona": "gs-014",
+  "label": "Linh: Cluttered bedroom",
+  "kind": "variant",
+  "reference": "gs-014-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 2: she is short and slim, with a straight figure, little curve and a small frame, exactly as in the reference. Light olive beige skin, Monk Skin Tone 4.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: She stands in a cluttered lived in bedroom: an unmade bed, clothes on a chair, shelves with objects, a laundry basket. Framing: a wide full length shot, with space above her head and all her toes and empty floor visible inside the lower edge of the frame. Everyday indoor daylight.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo. The camera is pulled back far enough that all her toes and the ground beneath them sit inside the lower edge of the frame.",
+  "requested_at": "2026-11-06T17:35:06+00:00",
+  "seconds": 19.6,
+  "interaction_id": "v1_Chd5d191YXFPM05McXl5dE1QejRDOTJBSRIXeXdfdWFxTzNOTHF5eXRNUHo0QzkyQUk",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1451,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 204
+      },
+      {
+        "modality": "image",
+        "tokens": 1120
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1324,
+    "total_output_tokens": 2054,
+    "total_thought_tokens": 174,
+    "total_tokens": 3552,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "Please look over this photo. Let me know if you would like me to adjust the background clutter, her stance, or the lighting.",
+  "saved_as": "gs-014-front-clutter.jpg",
+  "bytes": 2716041
+}

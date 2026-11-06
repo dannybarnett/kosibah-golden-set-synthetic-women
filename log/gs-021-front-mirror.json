@@ -1,0 +1,45 @@
+{
+  "file": "gs-021-front-mirror.jpg",
+  "persona": "gs-021",
+  "label": "Ngozi: Mirror selfie, seated",
+  "kind": "variant",
+  "reference": "gs-021-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 16: she has a full figure, with a soft belly and full thighs and arms, exactly as in the reference. Deep brown skin, Monk Skin Tone 8. Keep these features: grey slip on shoes; she is seated in her manual wheelchair. Keep her skin as dark as in the reference; any change should come only from the new light.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: A mirror selfie in a full length bedroom mirror: she holds a phone in one hand and the phone is visible in the reflection. The image is reversed left to right as a real mirror would show it. Slightly uneven indoor light. She is seated in the same manual wheelchair as in the reference, facing the mirror, with the whole wheelchair, her feet on the footrests and the floor beneath the wheels visible inside the lower edge of the frame.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo. The camera is pulled back far enough that the wheels and the floor beneath them sit inside the lower edge of the frame.",
+  "requested_at": "2026-11-06T18:08:55+00:00",
+  "seconds": 35.7,
+  "interaction_id": "v1_Chd1QmZ1YW9MSUdzaUxpTE1QaGJPaHNBTRIXdUJmdWFvTElHc2lMaUxNUGhiT2hzQU0",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1514,
+    "input_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1120
+      },
+      {
+        "modality": "text",
+        "tokens": 267
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1387,
+    "total_output_tokens": 2521,
+    "total_thought_tokens": 1337,
+    "total_tokens": 5245,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "",
+  "saved_as": "gs-021-front-mirror.jpg",
+  "bytes": 2709667
+}

@@ -1,0 +1,1221 @@
+{
+  "name": "Kosibah golden set: synthetic women",
+  "version": "1.0.0",
+  "date": "2026-11-06",
+  "license": "CC0-1.0",
+  "scale_cue": "a standard interior door, 203 cm (80 in) tall, beside the subject; the head height cue reads 6 to 8 percent high in practice",
+  "personas": [
+    {
+      "id": "gs-001",
+      "name": "Folake",
+      "age": 31,
+      "ancestry": "Yoruba Nigerian",
+      "ancestry_observed": null,
+      "monk_skin_tone": "7 to 8",
+      "monk_skin_tone_observed": null,
+      "hair": "type 4C natural black hair in a twist out, with the ends resting on her shoulders",
+      "height_cm": 163,
+      "dress_size_us": 14,
+      "dress_size_us_observed": null,
+      "estimated_weight_kg": null,
+      "shape": "pear with a full bust, soft belly and full thighs",
+      "measurements_cm": {
+        "bust": 102,
+        "waist": 86,
+        "hips": 116,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a round face with soft cheeks, wide set eyes, a short broad nose and full lips",
+      "distinct_features": "irregular freckles across her nose and both cheeks; a small gold stud on her left nostril",
+      "status": "accepted 2026-11-06 (prompt asked for size 16); measurements are estimates; height cue reads about 88 percent of the door",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-001-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-001-front-clean.json"
+        },
+        {
+          "file": "gs-001-front-crop-knees.jpg",
+          "view": "front",
+          "condition": "crop-knees",
+          "log": "log/gs-001-front-crop-knees.json"
+        },
+        {
+          "file": "gs-001-front-mirror.jpg",
+          "view": "front",
+          "condition": "mirror",
+          "log": "log/gs-001-front-mirror.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-002",
+      "name": "Chiamaka",
+      "age": 26,
+      "ancestry": "Igbo Nigerian",
+      "ancestry_observed": null,
+      "monk_skin_tone": "8 to 9",
+      "monk_skin_tone_observed": null,
+      "hair": "black box braids with extensions, hip length, worn down",
+      "height_cm": 175,
+      "dress_size_us": 8,
+      "dress_size_us_observed": "4 to 6",
+      "estimated_weight_kg": null,
+      "shape": "hourglass shape",
+      "measurements_cm": {
+        "bust": 96,
+        "waist": 70,
+        "hips": 102,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a long oval face with high cheekbones, almond shaped eyes, a straight nose and a wide mouth",
+      "distinct_features": "a clear gap between her two upper front teeth, shown in a broad open smile",
+      "status": "accepted 2026-11-06; measurements are estimates; slimmer than specified, card describes the image",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-002-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-002-front-clean.json"
+        },
+        {
+          "file": "gs-002-front-hair-up.jpg",
+          "view": "front",
+          "condition": "hair-up",
+          "log": "log/gs-002-front-hair-up.json"
+        },
+        {
+          "file": "gs-002-front-mirror.jpg",
+          "view": "front",
+          "condition": "mirror",
+          "log": "log/gs-002-front-mirror.json"
+        },
+        {
+          "file": "gs-002-front-outdoor.jpg",
+          "view": "front",
+          "condition": "outdoor",
+          "log": "log/gs-002-front-outdoor.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-003",
+      "name": "Akosua",
+      "age": 44,
+      "ancestry": "Ghanaian",
+      "ancestry_observed": null,
+      "monk_skin_tone": 10,
+      "monk_skin_tone_observed": "8 to 9",
+      "hair": "hair fully covered by a tied indigo wax print headwrap",
+      "height_cm": 168,
+      "dress_size_us": 24,
+      "dress_size_us_observed": "22 to 24",
+      "estimated_weight_kg": 115,
+      "shape": "apple shape with a fuller midsection",
+      "measurements_cm": {
+        "bust": 132,
+        "waist": 126,
+        "hips": 136,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a broad square face with a heavy brow, small deep set eyes, a wide nose and a full lower lip",
+      "distinct_features": "small dark marks on both cheeks; the raised mole is not distinct",
+      "status": "accepted 2026-11-06 (prompt asked for size 28); measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-003-front-backlit.jpg",
+          "view": "front",
+          "condition": "backlit",
+          "log": "log/gs-003-front-backlit.json"
+        },
+        {
+          "file": "gs-003-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-003-front-clean.json"
+        },
+        {
+          "file": "gs-003-front-loose-hoodie.jpg",
+          "view": "front",
+          "condition": "loose-hoodie",
+          "log": "log/gs-003-front-loose-hoodie.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-004",
+      "name": "Hanna",
+      "age": 24,
+      "ancestry": "Ethiopian Amhara",
+      "ancestry_observed": null,
+      "monk_skin_tone": 7,
+      "monk_skin_tone_observed": "6 to 7",
+      "hair": "neat black cornrows running back to the nape",
+      "height_cm": 178,
+      "dress_size_us": 2,
+      "dress_size_us_observed": "2 to 4",
+      "estimated_weight_kg": null,
+      "shape": "slim rectangle shape with little waist definition",
+      "measurements_cm": {
+        "bust": 82,
+        "waist": 65,
+        "hips": 88,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a narrow long face with large eyes, a slim high bridged nose and a pointed chin",
+      "distinct_features": "no special marks",
+      "status": "accepted 2026-11-06 (prompt asked for size 4); measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-004-front-backlit.jpg",
+          "view": "front",
+          "condition": "backlit",
+          "log": "log/gs-004-front-backlit.json"
+        },
+        {
+          "file": "gs-004-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-004-front-clean.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-005",
+      "name": "Hodan",
+      "age": 29,
+      "ancestry": "Somali",
+      "ancestry_observed": null,
+      "monk_skin_tone": 8,
+      "monk_skin_tone_observed": "7 to 8",
+      "hair": "hair fully covered by a wrapped grey jersey hijab pinned under the chin",
+      "height_cm": 182,
+      "dress_size_us": 4,
+      "dress_size_us_observed": null,
+      "estimated_weight_kg": null,
+      "shape": "slim",
+      "measurements_cm": {
+        "bust": 84,
+        "waist": 67,
+        "hips": 92,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a heart shaped face with a high forehead, a slim nose with a slight curve and a small mouth",
+      "distinct_features": "no special marks",
+      "status": "accepted 2026-11-06 (prompt asked for size 6); measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-005-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-005-front-clean.json"
+        },
+        {
+          "file": "gs-005-front-lamp.jpg",
+          "view": "front",
+          "condition": "lamp",
+          "log": "log/gs-005-front-lamp.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-006",
+      "name": "Tanisha",
+      "age": 38,
+      "ancestry": "African American",
+      "ancestry_observed": null,
+      "monk_skin_tone": 9,
+      "monk_skin_tone_observed": "8 to 9",
+      "hair": "black silk pressed hair, straight and shoulder length",
+      "height_cm": 160,
+      "dress_size_us": 20,
+      "dress_size_us_observed": "16 to 18",
+      "estimated_weight_kg": 95,
+      "shape": "very full bust with a soft midsection",
+      "measurements_cm": {
+        "bust": 130,
+        "waist": 106,
+        "hips": 124,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a full round face with hooded eyes, a rounded chin and full lips",
+      "distinct_features": "a wide nose bridge; a few small dark marks on her cheeks; darker patches on both shins",
+      "status": "accepted 2026-11-06 (prompt asked for size 22); measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-006-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-006-front-clean.json"
+        },
+        {
+          "file": "gs-006-front-hair-up.jpg",
+          "view": "front",
+          "condition": "hair-up",
+          "log": "log/gs-006-front-hair-up.json"
+        },
+        {
+          "file": "gs-006-front-lamp.jpg",
+          "view": "front",
+          "condition": "lamp",
+          "log": "log/gs-006-front-lamp.json"
+        },
+        {
+          "file": "gs-006-front-mirror.jpg",
+          "view": "front",
+          "condition": "mirror",
+          "log": "log/gs-006-front-mirror.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-007",
+      "name": "Renee",
+      "age": 57,
+      "ancestry": "African American",
+      "ancestry_observed": null,
+      "monk_skin_tone": 8,
+      "monk_skin_tone_observed": null,
+      "hair": "chin length relaxed black hair with visible grey at the roots",
+      "height_cm": 155,
+      "dress_size_us": 18,
+      "dress_size_us_observed": "14 to 16",
+      "estimated_weight_kg": 80,
+      "shape": "apple shape with a fuller midsection",
+      "measurements_cm": {
+        "bust": 116,
+        "waist": 108,
+        "hips": 118,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a long face with high cheekbones, narrow eyes, thin lips and a prominent chin",
+      "distinct_features": "rectangular tortoiseshell prescription glasses; visible age lines, soft neck skin and under eye creases appropriate to her age",
+      "status": "accepted 2026-11-06 (prompt asked for size 20); measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-007-front-blur.jpg",
+          "view": "front",
+          "condition": "blur",
+          "log": "log/gs-007-front-blur.json"
+        },
+        {
+          "file": "gs-007-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-007-front-clean.json"
+        },
+        {
+          "file": "gs-007-front-lamp.jpg",
+          "view": "front",
+          "condition": "lamp",
+          "log": "log/gs-007-front-lamp.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-008",
+      "name": "Imani",
+      "age": 27,
+      "ancestry": "African American",
+      "ancestry_observed": null,
+      "monk_skin_tone": "9 to 10",
+      "monk_skin_tone_observed": null,
+      "hair": "a closely shaved head",
+      "height_cm": 183,
+      "dress_size_us": 6,
+      "dress_size_us_observed": "2 to 4",
+      "estimated_weight_kg": null,
+      "shape": "lean and athletic, defined arms, not heavily muscular",
+      "measurements_cm": {
+        "bust": 92,
+        "waist": 72,
+        "hips": 98,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "an angular diamond shaped face with prominent cheekbones, a strong brow, a broad nose and a wide mouth",
+      "distinct_features": "vitiligo: pale patches around both eyes and on the backs of both hands, extending up the wrists and lower forearms; cropped 7/8 leggings ending above the ankle",
+      "status": "accepted 2026-11-06; measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-008-front-angle.jpg",
+          "view": "front",
+          "condition": "angle",
+          "log": "log/gs-008-front-angle.json"
+        },
+        {
+          "file": "gs-008-front-backlit.jpg",
+          "view": "front",
+          "condition": "backlit",
+          "log": "log/gs-008-front-backlit.json"
+        },
+        {
+          "file": "gs-008-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-008-front-clean.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-009",
+      "name": "Shanice",
+      "age": 35,
+      "ancestry": "Jamaican",
+      "ancestry_observed": null,
+      "monk_skin_tone": 7,
+      "monk_skin_tone_observed": null,
+      "hair": "thin black locs, shoulder length, worn down",
+      "height_cm": 172,
+      "dress_size_us": 12,
+      "dress_size_us_observed": "10 to 12",
+      "estimated_weight_kg": null,
+      "shape": "inverted triangle with broad shoulders and narrower hips",
+      "measurements_cm": {
+        "bust": 106,
+        "waist": 84,
+        "hips": 96,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a wide jaw with a short forehead, rounded eyes, a short nose with a rounded tip and wide lips",
+      "distinct_features": "black ink floral tattoo sleeve covering her right upper arm and forearm (her right, not left as specified); a fine line tattoo across her upper chest; small marks on her cheeks",
+      "status": "accepted 2026-11-06 (prompt asked for size 14); measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-009-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-009-front-clean.json"
+        },
+        {
+          "file": "gs-009-front-loose-hoodie.jpg",
+          "view": "front",
+          "condition": "loose-hoodie",
+          "log": "log/gs-009-front-loose-hoodie.json"
+        },
+        {
+          "file": "gs-009-front-mirror.jpg",
+          "view": "front",
+          "condition": "mirror",
+          "log": "log/gs-009-front-mirror.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-010",
+      "name": "Maya",
+      "age": 30,
+      "ancestry": "mixed Nigerian and Irish",
+      "ancestry_observed": null,
+      "monk_skin_tone": 6,
+      "monk_skin_tone_observed": "5 to 6",
+      "hair": "type 3C dark brown curls, shoulder length",
+      "height_cm": 165,
+      "dress_size_us": 10,
+      "dress_size_us_observed": "8 to 10",
+      "estimated_weight_kg": null,
+      "shape": "hourglass shape",
+      "measurements_cm": {
+        "bust": 100,
+        "waist": 76,
+        "hips": 106,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "an oval face with hazel eyes, a narrow nose, a thin upper lip and a dimpled chin",
+      "distinct_features": "a coin sized darker brown birthmark on her left cheek, below the cheekbone (her left, not right as specified)",
+      "status": "accepted 2026-11-06 (prompt asked for size 12); measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-010-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-010-front-clean.json"
+        },
+        {
+          "file": "gs-010-front-clutter.jpg",
+          "view": "front",
+          "condition": "clutter",
+          "log": "log/gs-010-front-clutter.json"
+        },
+        {
+          "file": "gs-010-front-second-person.jpg",
+          "view": "front",
+          "condition": "second-person",
+          "log": "log/gs-010-front-second-person.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-011",
+      "name": "Jasmine",
+      "age": 22,
+      "ancestry": "mixed Korean and African American",
+      "ancestry_observed": "African American",
+      "monk_skin_tone": 6,
+      "monk_skin_tone_observed": null,
+      "hair": "short black locs, chin length",
+      "height_cm": 158,
+      "dress_size_us": 28,
+      "dress_size_us_observed": "24 to 26",
+      "estimated_weight_kg": 125,
+      "shape": "very full figured",
+      "measurements_cm": {
+        "bust": 146,
+        "waist": 128,
+        "hips": 150,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a full round face with narrow single lidded eyes, a low nose bridge and a small mouth",
+      "distinct_features": "a few small dark marks on her left cheek and chin",
+      "status": "accepted 2026-11-06 (prompt asked for size 30); measurements are estimates; height cue reads about 86 percent",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-011-front-angle-hips.jpg",
+          "view": "front",
+          "condition": "angle-hips",
+          "log": "log/gs-011-front-angle-hips.json"
+        },
+        {
+          "file": "gs-011-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-011-front-clean.json"
+        },
+        {
+          "file": "gs-011-front-clutter.jpg",
+          "view": "front",
+          "condition": "clutter",
+          "log": "log/gs-011-front-clutter.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-012",
+      "name": "Meera",
+      "age": 42,
+      "ancestry": "Tamil South Indian",
+      "ancestry_observed": null,
+      "monk_skin_tone": 7,
+      "monk_skin_tone_observed": "6 to 7",
+      "hair": "long wavy black hair, worn down past the shoulders",
+      "height_cm": 152,
+      "dress_size_us": 16,
+      "dress_size_us_observed": "14 to 16",
+      "estimated_weight_kg": null,
+      "shape": "pear shape",
+      "measurements_cm": {
+        "bust": 104,
+        "waist": 90,
+        "hips": 120,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "an oval face with a rounded chin, large dark eyes, a long nose with a rounded tip and full lips",
+      "distinct_features": "a small mark on her right cheek",
+      "status": "accepted 2026-11-06 (prompt asked for size 18); measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-012-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-012-front-clean.json"
+        },
+        {
+          "file": "gs-012-front-mirror.jpg",
+          "view": "front",
+          "condition": "mirror",
+          "log": "log/gs-012-front-mirror.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-013",
+      "name": "Mei",
+      "age": 34,
+      "ancestry": "Han Chinese",
+      "ancestry_observed": null,
+      "monk_skin_tone": "2 to 3",
+      "monk_skin_tone_observed": null,
+      "hair": "a straight black chin length bob",
+      "height_cm": 155,
+      "dress_size_us": 0,
+      "dress_size_us_observed": "0 to 2",
+      "estimated_weight_kg": null,
+      "shape": "very slim",
+      "measurements_cm": {
+        "bust": 78,
+        "waist": 60,
+        "hips": 84,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a squarish face with wide cheekbones, single lidded eyes, a small nose and a small mouth",
+      "distinct_features": "a small mole on her left cheek",
+      "status": "accepted 2026-11-06 (prompt asked for size 2); measurements are estimates; height cue reads about 83 percent",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-013-front-backlit.jpg",
+          "view": "front",
+          "condition": "backlit",
+          "log": "log/gs-013-front-backlit.json"
+        },
+        {
+          "file": "gs-013-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-013-front-clean.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-014",
+      "name": "Linh",
+      "age": 28,
+      "ancestry": "Vietnamese",
+      "ancestry_observed": null,
+      "monk_skin_tone": 4,
+      "monk_skin_tone_observed": "3 to 4",
+      "hair": "long straight black hair reaching mid back",
+      "height_cm": 150,
+      "dress_size_us": 2,
+      "dress_size_us_observed": null,
+      "estimated_weight_kg": null,
+      "shape": "petite rectangle shape",
+      "measurements_cm": {
+        "bust": 80,
+        "waist": 64,
+        "hips": 86,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a small heart shaped face with rounded double lidded eyes, a low nose bridge and a full lower lip",
+      "distinct_features": "no special marks",
+      "status": "accepted 2026-11-06 (prompt asked for size 4); measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-014-front-blur.jpg",
+          "view": "front",
+          "condition": "blur",
+          "log": "log/gs-014-front-blur.json"
+        },
+        {
+          "file": "gs-014-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-014-front-clean.json"
+        },
+        {
+          "file": "gs-014-front-clutter.jpg",
+          "view": "front",
+          "condition": "clutter",
+          "log": "log/gs-014-front-clutter.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-015",
+      "name": "Nadia",
+      "age": 53,
+      "ancestry": "Egyptian",
+      "ancestry_observed": null,
+      "monk_skin_tone": 5,
+      "monk_skin_tone_observed": "4 to 5",
+      "hair": "hair fully covered by a loosely draped navy, nearly black, shawl style hijab",
+      "height_cm": 162,
+      "dress_size_us": 22,
+      "dress_size_us_observed": "18 to 20",
+      "estimated_weight_kg": 100,
+      "shape": "long torso with short legs and a fuller figure",
+      "measurements_cm": {
+        "bust": 128,
+        "waist": 116,
+        "hips": 130,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a long oval face with thick straight eyebrows, large hooded eyes and a prominent curved nose",
+      "distinct_features": "visible age lines appropriate to her age",
+      "status": "accepted 2026-11-06 (prompt asked for size 24); measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-015-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-015-front-clean.json"
+        },
+        {
+          "file": "gs-015-front-clutter.jpg",
+          "view": "front",
+          "condition": "clutter",
+          "log": "log/gs-015-front-clutter.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-016",
+      "name": "Yesenia",
+      "age": 32,
+      "ancestry": "Dominican Afro Latina",
+      "ancestry_observed": null,
+      "monk_skin_tone": 9,
+      "monk_skin_tone_observed": null,
+      "hair": "a large rounded type 4C black afro",
+      "height_cm": 169,
+      "dress_size_us": 12,
+      "dress_size_us_observed": "8 to 10 plus belly",
+      "estimated_weight_kg": null,
+      "shape": "visibly pregnant, second trimester; slim arms and legs",
+      "measurements_cm": {
+        "bust": 108,
+        "waist": 104,
+        "hips": 108,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a long oval face with a high forehead, a narrow nose, a wide mouth and deep set eyes",
+      "distinct_features": "a few small dark marks on both cheeks",
+      "status": "accepted 2026-11-06; measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-016-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-016-front-clean.json"
+        },
+        {
+          "file": "gs-016-front-mirror.jpg",
+          "view": "front",
+          "condition": "mirror",
+          "log": "log/gs-016-front-mirror.json"
+        },
+        {
+          "file": "gs-016-front-second-person.jpg",
+          "view": "front",
+          "condition": "second-person",
+          "log": "log/gs-016-front-second-person.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-017",
+      "name": "Itzel",
+      "age": 37,
+      "ancestry": "Indigenous Maya Mexican",
+      "ancestry_observed": null,
+      "monk_skin_tone": 6,
+      "monk_skin_tone_observed": "5 to 6",
+      "hair": "a black pixie crop",
+      "height_cm": 161,
+      "dress_size_us": 16,
+      "dress_size_us_observed": "12 to 14",
+      "estimated_weight_kg": null,
+      "shape": "short waisted",
+      "measurements_cm": {
+        "bust": 110,
+        "waist": 92,
+        "hips": 116,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a broad face with strong high cheekbones, narrow dark eyes, a strong curved nose and a wide mouth",
+      "distinct_features": "a long, pale, slightly raised surgical scar along the inside of her right forearm from elbow to wrist (as specified, not mirrored); a few small moles on her cheeks",
+      "status": "accepted 2026-11-06 (prompt asked for size 18); measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-017-front-angle-crossed.jpg",
+          "view": "front",
+          "condition": "angle-crossed",
+          "log": "log/gs-017-front-angle-crossed.json"
+        },
+        {
+          "file": "gs-017-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-017-front-clean.json"
+        },
+        {
+          "file": "gs-017-front-outdoor.jpg",
+          "view": "front",
+          "condition": "outdoor",
+          "log": "log/gs-017-front-outdoor.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-018",
+      "name": "Camila",
+      "age": 46,
+      "ancestry": "Argentine of European descent",
+      "ancestry_observed": null,
+      "monk_skin_tone": 3,
+      "monk_skin_tone_observed": null,
+      "hair": "shoulder length light brown type 3A curls",
+      "height_cm": 171,
+      "dress_size_us": 8,
+      "dress_size_us_observed": "4 to 6",
+      "estimated_weight_kg": null,
+      "shape": "rectangle shape with straight hips",
+      "measurements_cm": {
+        "bust": 90,
+        "waist": 74,
+        "hips": 96,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a narrow face with small grey green eyes, a long straight nose and thin lips",
+      "distinct_features": "visible fine lines appropriate to her age",
+      "status": "accepted 2026-11-06 (prompt asked for size 10); measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-018-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-018-front-clean.json"
+        },
+        {
+          "file": "gs-018-front-crop-ankles.jpg",
+          "view": "front",
+          "condition": "crop-ankles",
+          "log": "log/gs-018-front-crop-ankles.json"
+        },
+        {
+          "file": "gs-018-front-loose-trousers.jpg",
+          "view": "front",
+          "condition": "loose-trousers",
+          "log": "log/gs-018-front-loose-trousers.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-019",
+      "name": "Ingrid",
+      "age": 61,
+      "ancestry": "Norwegian",
+      "ancestry_observed": null,
+      "monk_skin_tone": 1,
+      "monk_skin_tone_observed": "1 to 2",
+      "hair": "silver grey straight hair, collarbone length",
+      "height_cm": 176,
+      "dress_size_us": 10,
+      "dress_size_us_observed": "6 to 8",
+      "estimated_weight_kg": null,
+      "shape": "small bust with a straight waist and wider hips",
+      "measurements_cm": {
+        "bust": 88,
+        "waist": 78,
+        "hips": 98,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a long face with pale blue eyes, a narrow straight nose and thin lips",
+      "distinct_features": "a strong square jaw; visible wrinkles, sun spots and age appropriate skin",
+      "status": "accepted 2026-11-06 (prompt asked for size 12); measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-019-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-019-front-clean.json"
+        },
+        {
+          "file": "gs-019-front-hair-up.jpg",
+          "view": "front",
+          "condition": "hair-up",
+          "log": "log/gs-019-front-hair-up.json"
+        },
+        {
+          "file": "gs-019-front-lamp.jpg",
+          "view": "front",
+          "condition": "lamp",
+          "log": "log/gs-019-front-lamp.json"
+        },
+        {
+          "file": "gs-019-front-outdoor.jpg",
+          "view": "front",
+          "condition": "outdoor",
+          "log": "log/gs-019-front-outdoor.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-020",
+      "name": "Eleni",
+      "age": 58,
+      "ancestry": "Greek",
+      "ancestry_observed": null,
+      "monk_skin_tone": 4,
+      "monk_skin_tone_observed": null,
+      "hair": "dark brown and grey type 3B curls, shoulder length",
+      "height_cm": 164,
+      "dress_size_us": 20,
+      "dress_size_us_observed": "18 to 20",
+      "estimated_weight_kg": 95,
+      "shape": "very full bust with a soft midsection",
+      "measurements_cm": {
+        "bust": 126,
+        "waist": 110,
+        "hips": 126,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a wide forehead, heavy lidded dark eyes, thick eyebrows and a prominent nose",
+      "distinct_features": "facial asymmetry is mild and not obvious; visible age lines",
+      "status": "accepted 2026-11-06 (prompt asked for size 22); measurements are estimates",
+      "mobility": null,
+      "core_persona": true,
+      "images": [
+        {
+          "file": "gs-020-front-angle-door.jpg",
+          "view": "front",
+          "condition": "angle-door",
+          "log": "log/gs-020-front-angle-door.json"
+        },
+        {
+          "file": "gs-020-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-020-front-clean.json"
+        },
+        {
+          "file": "gs-020-front-crop-ankles.jpg",
+          "view": "front",
+          "condition": "crop-ankles",
+          "log": "log/gs-020-front-crop-ankles.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-021",
+      "name": "Ngozi",
+      "age": 41,
+      "ancestry": "Igbo Nigerian",
+      "ancestry_observed": null,
+      "monk_skin_tone": 8,
+      "monk_skin_tone_observed": "8 to 9",
+      "hair": "short natural black hair",
+      "height_cm": 165,
+      "dress_size_us": 16,
+      "dress_size_us_observed": "14 to 16",
+      "estimated_weight_kg": null,
+      "shape": "wheelchair user",
+      "measurements_cm": {
+        "bust": 108,
+        "waist": 94,
+        "hips": 112,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a wide oval face with a broad forehead, large eyes, a rounded nose and full lips",
+      "distinct_features": "grey slip on shoes; whole manual wheelchair in frame",
+      "status": "accepted 2026-11-06 (prompt asked for size 18); measurements are estimates",
+      "mobility": "manual wheelchair user",
+      "core_persona": false,
+      "images": [
+        {
+          "file": "gs-021-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-021-front-clean.json"
+        },
+        {
+          "file": "gs-021-front-mirror.jpg",
+          "view": "front",
+          "condition": "mirror",
+          "log": "log/gs-021-front-mirror.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-022",
+      "name": "Tara",
+      "age": 33,
+      "ancestry": "African American",
+      "ancestry_observed": null,
+      "monk_skin_tone": 7,
+      "monk_skin_tone_observed": null,
+      "hair": "medium length black curls",
+      "height_cm": 170,
+      "dress_size_us": 10,
+      "dress_size_us_observed": "10 to 12",
+      "estimated_weight_kg": null,
+      "shape": "forearm crutch user",
+      "measurements_cm": {
+        "bust": 98,
+        "waist": 76,
+        "hips": 104,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a square face with narrow eyes, a straight nose and a thin upper lip",
+      "distinct_features": "forearm crutch in her left hand (her left, not right as specified); black flat shoes",
+      "status": "accepted 2026-11-06 (prompt asked for size 12); measurements are estimates",
+      "mobility": "forearm crutch user",
+      "core_persona": false,
+      "images": [
+        {
+          "file": "gs-022-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-022-front-clean.json"
+        },
+        {
+          "file": "gs-022-front-mirror.jpg",
+          "view": "front",
+          "condition": "mirror",
+          "log": "log/gs-022-front-mirror.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "id": "gs-023",
+      "name": "Sofia",
+      "age": 29,
+      "ancestry": "Italian",
+      "ancestry_observed": null,
+      "monk_skin_tone": 3,
+      "monk_skin_tone_observed": null,
+      "hair": "long dark brown waves",
+      "height_cm": 167,
+      "dress_size_us": 6,
+      "dress_size_us_observed": "4 to 6",
+      "estimated_weight_kg": null,
+      "shape": "slim, with a below the knee carbon prosthetic on her right leg (her right, not left as specified)",
+      "measurements_cm": {
+        "bust": 88,
+        "waist": 70,
+        "hips": 94,
+        "note": "estimates, not measured from the image"
+      },
+      "face": "a heart shaped face with thick eyebrows, a long nose and a wide mouth",
+      "distinct_features": "below the knee carbon prosthetic, right leg; white and beige trainers rather than flat shoes",
+      "status": "accepted 2026-11-06 (prompt asked for size 8); measurements are estimates",
+      "mobility": "below the knee prosthetic, right leg",
+      "core_persona": false,
+      "images": [
+        {
+          "file": "gs-023-front-clean.jpg",
+          "view": "front",
+          "condition": "clean",
+          "log": "log/gs-023-front-clean.json"
+        },
+        {
+          "file": "gs-023-front-mirror.jpg",
+          "view": "front",
+          "condition": "mirror",
+          "log": "log/gs-023-front-mirror.json"
+        }
+      ],
+      "generation": {
+        "model": "gemini-nano-banana-2.1",
+        "thinking_level": "high",
+        "image_size": "2K",
+        "aspect_ratio": "3:4",
+        "seed": null,
+        "date": "2026-11-06"
+      }
+    }
+  ]
+}

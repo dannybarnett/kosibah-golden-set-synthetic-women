@@ -1,0 +1,45 @@
+{
+  "file": "gs-020-front-crop-ankles.jpg",
+  "persona": "gs-020",
+  "label": "Eleni: Cropped at the ankles",
+  "kind": "variant",
+  "reference": "gs-020-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 20: her very heavy bust is the most prominent part of her body, with a large soft belly, heavy upper arms and the softer body of a woman of her age, exactly as in the reference. Light olive beige skin, Monk Skin Tone 4. Keep these features: a slightly asymmetric face, with one eye set a little lower and a nose that leans slightly; visible age lines.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: Same plain wall and door frame as the reference, but framed carelessly so the bottom edge of the photo cuts her off at the ankles; her feet are out of frame. The top of her head and the top of the door are still visible.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo.",
+  "requested_at": "2026-11-06T17:37:04+00:00",
+  "seconds": 23.2,
+  "interaction_id": "v1_ChdRUkR1YXBQWEhJMjl4ZElQLU1UazRRTRIXUVJEdWFwUFhISTI5eGRJUC1NVGs0UU0",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1458,
+    "input_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1120
+      },
+      {
+        "modality": "text",
+        "tokens": 211
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1331,
+    "total_output_tokens": 2096,
+    "total_thought_tokens": 954,
+    "total_tokens": 4381,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "",
+  "saved_as": "gs-020-front-crop-ankles.jpg",
+  "bytes": 2351505
+}

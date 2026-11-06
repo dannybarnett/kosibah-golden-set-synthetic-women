@@ -1,0 +1,45 @@
+{
+  "file": "gs-006-front-hair-up.jpg",
+  "persona": "gs-006",
+  "label": "Tanisha: Hair up",
+  "kind": "variant",
+  "reference": "gs-006-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 20: her very heavy bust is the most prominent part of her body, with a large soft belly, heavy upper arms, a thick waist and a soft chin, exactly as in the reference. Very deep brown skin, Monk Skin Tone 9. Keep these features: a wide nose bridge. Keep her skin as dark as in the reference; any change should come only from the new light.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: Her same hair is now pulled back into a low chignon, exposing her neck. Same wall, door frame, light and pose as the reference. Framing: a wide full length shot, with space above her head and all her toes and empty floor visible inside the lower edge of the frame. The whole door stays in the left third of the image, with wall above its frame, and she does not overlap it.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo. The camera is pulled back far enough that all her toes and the ground beneath them sit inside the lower edge of the frame.",
+  "requested_at": "2026-11-06T17:45:50+00:00",
+  "seconds": 35.8,
+  "interaction_id": "v1_ChZUeEx1YXUtd0g1YkkwX2dQdC1DWlNREhZUeEx1YXUtd0g1YkkwX2dQdC1DWlNR",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1518,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 271
+      },
+      {
+        "modality": "image",
+        "tokens": 1120
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1391,
+    "total_output_tokens": 2589,
+    "total_thought_tokens": 1336,
+    "total_tokens": 5316,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "",
+  "saved_as": "gs-006-front-hair-up.jpg",
+  "bytes": 2478890
+}

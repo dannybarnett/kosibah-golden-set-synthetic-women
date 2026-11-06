@@ -1,0 +1,45 @@
+{
+  "file": "gs-016-front-second-person.jpg",
+  "persona": "gs-016",
+  "label": "Yesenia: Second person in frame",
+  "kind": "variant",
+  "reference": "gs-016-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 12: she has an obviously rounded pregnant belly, in the second trimester, with the rest of her body in proportion, with full upper arms and full thighs, exactly as in the reference. Very deep brown skin, Monk Skin Tone 9. Keep her skin as dark as in the reference; any change should come only from the new light.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: Same wall and door frame as the reference. A second invented adult woman in ordinary clothes stands partly in frame at the right edge, with her shoulder, arm and part of her face visible. The main subject is still fully visible from head to feet. The whole door stays in the left third of the image, with wall above its frame, and she does not overlap it.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo. The camera is pulled back far enough that all her toes and the ground beneath them sit inside the lower edge of the frame.",
+  "requested_at": "2026-11-06T17:42:05+00:00",
+  "seconds": 28.3,
+  "interaction_id": "v1_ChdiUkh1YXByUU9yakV4ZElQbFpQbDhBNBIXYlJIdWFwclFPcmpFeGRJUGxaUGw4QTQ",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1499,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 252
+      },
+      {
+        "modality": "image",
+        "tokens": 1120
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1372,
+    "total_output_tokens": 2167,
+    "total_thought_tokens": 985,
+    "total_tokens": 4524,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "I have generated the candid phone photograph you requested, showing the same woman from the reference photo in the exact same setting but from a wider perspective that includes her whole body down to her bare feet on the floor. A second woman is partially visible on the right edge of the frame, capturing a natural, conversational moment.",
+  "saved_as": "gs-016-front-second-person.jpg",
+  "bytes": 2326774
+}

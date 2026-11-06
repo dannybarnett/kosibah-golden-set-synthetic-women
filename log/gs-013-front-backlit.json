@@ -1,0 +1,45 @@
+{
+  "file": "gs-013-front-backlit.jpg",
+  "persona": "gs-013",
+  "label": "Mei: Backlit by a window",
+  "kind": "variant",
+  "reference": "gs-013-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 0: she is very slim and small framed, with narrow shoulders, a flat chest and thin arms and legs, exactly as in the reference. Fair skin, Monk Skin Tone 2.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: She stands with her back to a bright window, so the window is overexposed and she is underexposed, as a typical phone would capture it. Framing: a wide full length shot, with space above her head and all her toes and empty floor visible inside the lower edge of the frame. Plain wall either side of the window. Do not lighten her skin beyond what the exposure causes.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo. The camera is pulled back far enough that all her toes and the ground beneath them sit inside the lower edge of the frame.",
+  "requested_at": "2026-11-06T17:31:29+00:00",
+  "seconds": 29.8,
+  "interaction_id": "v1_Chc4Zzd1YXRPMEJLRzB5dE1QeTc2MzJBRRIXOGc3dWF0TzBCS0cweXRNUHk3NjMyQUU",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1471,
+    "input_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1120
+      },
+      {
+        "modality": "text",
+        "tokens": 224
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1344,
+    "total_output_tokens": 2086,
+    "total_thought_tokens": 1370,
+    "total_tokens": 4800,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "",
+  "saved_as": "gs-013-front-backlit.jpg",
+  "bytes": 2134373
+}

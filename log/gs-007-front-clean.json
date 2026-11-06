@@ -1,0 +1,41 @@
+{
+  "file": "gs-007-front-clean.jpg",
+  "persona": "gs-007",
+  "label": "Renee",
+  "kind": "clean",
+  "reference": null,
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "A candid, unedited full body phone photograph of a large, plus size woman: US dress size 20, 155 cm (5 ft 1 in) tall, about 80 kg (176 lb). Bust 116 cm, waist 108 cm, hips 118 cm. Her hips are about 25 percent as wide as she is tall. What her body must look like: she is short, with a large soft rounded belly as the fullest part of her body, a full bust, a thick waist and full upper arms. She reads unmistakably as a US size 20 to anyone looking at the photo.\n\nImage layout: a wide full length shot, framed with headroom above the top of the door frame and a clear band of empty floor beneath her feet. The door fills about 85 percent of the image height and her body about 65 percent, so there is space above the door frame and roughly a foot's length of bare floor below her toes.\n\nShe is an invented 57 year old African American woman who does not resemble any real person. Deep brown skin, Monk Skin Tone 8, consistent across her face, neck, arms and hands. Her face: a long face with high cheekbones, narrow eyes, thin lips and a prominent chin; she must look like this one specific individual, not a generic face. Hair: chin length relaxed black hair with visible grey at the roots. Distinct features that must be clearly visible: rectangular tortoiseshell prescription glasses; visible age lines, soft neck skin and under eye creases appropriate to her age. Her skin is deep, dark brown, with no lightening from the daylight. Her arms and legs are as dark as her face, and her skin stays this dark everywhere in the image. Natural unretouched skin with visible pores and small blemishes; little or no makeup; an ordinary person, not a model.\n\nShe wears a black fitted long sleeve top and charcoal leggings and is barefoot. She stands facing the camera, arms relaxed and slightly away from her body, with a neutral expression.\n\nSetting: she stands in front of a plain painted wall, in the right half of the image. A white interior door, 203 cm (80 in) tall, is in the left third of the image, with plain wall between her and the door, and she does not overlap it. Her feet and the base of the door are on the same line. Standing beside the door, the top of her head is about a forearm's length below the top of the door, about 76 percent of the way up it. Soft daylight from the front. No other objects or people.\n\nPhone photo, 26 mm equivalent, portrait 3:4. The camera is pulled back far enough, about 4 metres, that her entire feet, all her toes and the floor beneath them sit completely inside the lower edge of the frame, and the top of the door frame with wall above it sits completely inside the upper edge. Her body and skin appear exactly as described, unflattered and unretouched. No text or logo.",
+  "requested_at": "2026-11-06T16:57:10+00:00",
+  "seconds": 34.1,
+  "interaction_id": "v1_Chc1Z2J1YXEzTUphZWRvX1VQaUltMHVBbxIXNWdidWFxM01KYWVkb19VUGlJbTB1QW8",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 765,
+    "input_tokens_by_modality": [
+      {
+        "modality": "text",
+        "tokens": 649
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 649,
+    "total_output_tokens": 2869,
+    "total_thought_tokens": 1178,
+    "total_tokens": 4696,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "Here is a candid, unedited phone photograph of the woman as you described:",
+  "saved_as": "gs-007-front-clean.jpg",
+  "bytes": 2554768
+}

@@ -1,0 +1,45 @@
+{
+  "file": "gs-020-front-angle-door.jpg",
+  "persona": "gs-020",
+  "label": "Eleni: Slight angle, hand on door frame",
+  "kind": "variant",
+  "reference": "gs-020-front-clean.jpg",
+  "model": "gemini-nano-banana-2.1",
+  "thinking_level": "high",
+  "image_size": "2K",
+  "aspect_ratio": "3:4",
+  "seed": null,
+  "prompt": "Using the attached photo as the reference, create a new candid phone photograph of the same woman: same face, age, skin tone, hair, height and body. She is US dress size 20: her very heavy bust is the most prominent part of her body, with a large soft belly, heavy upper arms and the softer body of a woman of her age, exactly as in the reference. Light olive beige skin, Monk Skin Tone 4. Keep these features: a slightly asymmetric face, with one eye set a little lower and a nose that leans slightly; visible age lines.\n\nUnless told otherwise she wears the same clothes as in the reference. New conditions: Same plain wall and door frame as the reference, with her body turned 30 degrees to her left rather than square to the camera, head facing the camera. One hand resting on the door frame. Framing: a wide full length shot, with space above her head and all her toes and empty floor visible inside the lower edge of the frame. The whole door stays in the left third of the image, with wall above its frame, and she does not overlap it.\n\nKeep the same natural unretouched look, with her body and skin unchanged from the reference. No text or logo. The camera is pulled back far enough that all her toes and the ground beneath them sit inside the lower edge of the frame.",
+  "requested_at": "2026-11-06T17:39:12+00:00",
+  "seconds": 39.1,
+  "interaction_id": "v1_Chd3UkR1YW9uOUJPVGJ5dE1QMU5yUDhBMBIXd1JEdWFvbjlCT1RieXRNUDFOclA4QTA",
+  "status": "completed",
+  "usage": {
+    "initial_input_tokens": 1529,
+    "input_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1120
+      },
+      {
+        "modality": "text",
+        "tokens": 282
+      }
+    ],
+    "output_tokens_by_modality": [
+      {
+        "modality": "image",
+        "tokens": 1680
+      }
+    ],
+    "total_cached_tokens": 0,
+    "total_input_tokens": 1402,
+    "total_output_tokens": 2622,
+    "total_thought_tokens": 1345,
+    "total_tokens": 5369,
+    "total_tool_use_tokens": 0
+  },
+  "model_text": "",
+  "saved_as": "gs-020-front-angle-door.jpg",
+  "bytes": 2274612
+}
